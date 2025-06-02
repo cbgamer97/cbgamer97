@@ -23,14 +23,7 @@ Welcome to my GitHub profile — I’m a data enthusiast, Python developer, and 
 - 🔍 Develop stronger statistical intuition for real-world datasets.
 - 📚 Master data preprocessing and feature engineering techniques.
 - 🤖 Learn more about supervised/unsupervised machine learning algorithms.
-- 🧰 Build end-to-end data projects using Jupyter, Pandas, and scikit-learn.
-- 📊 Improve storytelling through data visualizations with Seaborn and Matplotlib.
 
 ---
-
-## 📫 Let's Connect
-- 📧 Email: your.email@example.com *(optional)*
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com) *(optional)*
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
 Thanks for stopping by — happy coding! 🚀
