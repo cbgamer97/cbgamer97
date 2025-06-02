@@ -5,7 +5,7 @@ Welcome to my GitHub profile — I’m a data enthusiast, Python developer, and 
 ---
 
 ## 🔧 Technologies & Tools
-- 💻 Languages: Python, SQL, HTML/CSS, JavaScript
+- 💻 Languages: Python, SQL, HTML/CSS, JavaScript, Java
 - 📊 Data Tools: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn
 - 🧠 Machine Learning: Linear Regression, Classification, Clustering (learning more every day)
 - 🗄️ Databases: MySQL, SQLite
